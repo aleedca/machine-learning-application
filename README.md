@@ -1,4 +1,4 @@
-# PrimerProyectoIA
+# Proyecto 1 IA
 Curso Inteligencia Artificial IIS2024
 Instituto Tecnológico de Costa Rica
 
